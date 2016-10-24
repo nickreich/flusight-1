@@ -1,0 +1,100 @@
+
+#+TITLE: FluSight
+
+* Agenda
+
+1. What
+2. Workflow
+3. Using
+4. UX Feedback
+
+* What
+
+Single page CDC FluSight Challenge prediction
+visualization app.
+
+* Workflow
+
+** 1. Backend wrangling ~Node.js~
+
+[[./node.png]]
+
+- Predictions :: Weekly submission CSVs
+- Actual data :: From [[https://github.com/cmu-delphi/delphi-epidata][Delphi API]]
+- Output :: A data file, ~data.json~
+
+** 2. Frontend
+
+*** MVVM ~Vue.js~
+
+[[./vue.png]]
+
+- Model :: Data (the json file)
+- View :: Layout
+- View-Model :: Connects model to view
+
+*** Viz ~D3~
+
+[[./d3.png]]
+
+- HTML components with attached data
+
+*** Production bundling ~webpack~
+
+[[./webpack.png]]
+
+- Transform, merge
+- Minify js / css / assets
+- Bundle everything
+
+*** Static hosting ~gh-pages~
+
+[[./github.png]]
+
+- ~gzipped~ bundle is small
+- Static hosting
+
+* Using
+
+** 1. Clone and install packages
+
+#+BEGIN_SRC sh
+git clone git@github.com:reichlab/flusight
+cd ./flusight
+npm install
+#+END_SRC
+
+** 2. Put data in ~./data~
+
+#+BEGIN_SRC sh
+tree ../data
+#+END_SRC
+
+#+RESULTS:
+| 2015-2016 |              |                 |       |
+|       `-- | KOT          |                 |       |
+|           | --           | 201549.csv.wide |       |
+|           | --           | 201550.csv      |       |
+|           | --           | 201551.csv      |       |
+|           | --           | 201617.csv.wide |       |
+|           | `--          | 201618.csv      |       |
+|           |              |                 |       |
+|         2 | directories, | 5               | files |
+
+** 3. Generate ~data.json~
+
+#+BEGIN_SRC sh
+npm run parse
+#+END_SRC
+
+** 4. Deploy
+
+#+BEGIN_SRC sh
+npm run deploy
+#+END_SRC
+
+* UX Feedback
+
+** Features ?
+
+** Issues ?
