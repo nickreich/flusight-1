@@ -1,0 +1,6071 @@
+{
+  "data": [
+    {
+      "id": "nat",
+      "subId": "US National",
+      "region": "National",
+      "states": [
+        "AK",
+        "AL",
+        "AR",
+        "AZ",
+        "CA",
+        "CO",
+        "CT",
+        "DC",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "IA",
+        "ID",
+        "IL",
+        "IN",
+        "KS",
+        "KY",
+        "LA",
+        "MA",
+        "MD",
+        "ME",
+        "MI",
+        "MN",
+        "MO",
+        "MS",
+        "MT",
+        "NC",
+        "ND",
+        "NE",
+        "NH",
+        "NJ",
+        "NM",
+        "NV",
+        "NY",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VA",
+        "VT",
+        "WA",
+        "WI",
+        "WV",
+        "WY"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.784654
+            },
+            {
+              "week": 201531,
+              "data": 0.786636
+            },
+            {
+              "week": 201532,
+              "data": 0.837102
+            },
+            {
+              "week": 201533,
+              "data": 0.85255
+            },
+            {
+              "week": 201534,
+              "data": 0.855974
+            },
+            {
+              "week": 201535,
+              "data": 0.910364
+            },
+            {
+              "week": 201536,
+              "data": 0.95371
+            },
+            {
+              "week": 201537,
+              "data": 1.07347
+            },
+            {
+              "week": 201538,
+              "data": 1.13914
+            },
+            {
+              "week": 201539,
+              "data": 1.14961
+            },
+            {
+              "week": 201540,
+              "data": 1.2444
+            },
+            {
+              "week": 201541,
+              "data": 1.31167
+            },
+            {
+              "week": 201542,
+              "data": 1.36705
+            },
+            {
+              "week": 201543,
+              "data": 1.37872
+            },
+            {
+              "week": 201544,
+              "data": 1.44664
+            },
+            {
+              "week": 201545,
+              "data": 1.51435
+            },
+            {
+              "week": 201546,
+              "data": 1.60549
+            },
+            {
+              "week": 201547,
+              "data": 1.91028
+            },
+            {
+              "week": 201548,
+              "data": 1.68953
+            },
+            {
+              "week": 201549,
+              "data": 1.79136
+            },
+            {
+              "week": 201550,
+              "data": 1.88284
+            },
+            {
+              "week": 201551,
+              "data": 2.32899
+            },
+            {
+              "week": 201552,
+              "data": 2.42149
+            },
+            {
+              "week": 201601,
+              "data": 1.95303
+            },
+            {
+              "week": 201602,
+              "data": 2.00315
+            },
+            {
+              "week": 201603,
+              "data": 2.12052
+            },
+            {
+              "week": 201604,
+              "data": 2.24122
+            },
+            {
+              "week": 201605,
+              "data": 2.37964
+            },
+            {
+              "week": 201606,
+              "data": 2.80475
+            },
+            {
+              "week": 201607,
+              "data": 3.12321
+            },
+            {
+              "week": 201608,
+              "data": 3.1475
+            },
+            {
+              "week": 201609,
+              "data": 3.3139
+            },
+            {
+              "week": 201610,
+              "data": 3.5303
+            },
+            {
+              "week": 201611,
+              "data": 3.05052
+            },
+            {
+              "week": 201612,
+              "data": 2.7635
+            },
+            {
+              "week": 201613,
+              "data": 2.43719
+            },
+            {
+              "week": 201614,
+              "data": 2.01927
+            },
+            {
+              "week": 201615,
+              "data": 1.98138
+            },
+            {
+              "week": 201616,
+              "data": 1.9158
+            },
+            {
+              "week": 201617,
+              "data": 1.70107
+            },
+            {
+              "week": 201618,
+              "data": 1.57255
+            },
+            {
+              "week": 201619,
+              "data": 1.37377
+            },
+            {
+              "week": 201620,
+              "data": 1.29697
+            },
+            {
+              "week": 201621,
+              "data": 1.18567
+            },
+            {
+              "week": 201622,
+              "data": 1.14207
+            },
+            {
+              "week": 201623,
+              "data": 1.04974
+            },
+            {
+              "week": 201624,
+              "data": 0.976437
+            },
+            {
+              "week": 201625,
+              "data": 0.863306
+            },
+            {
+              "week": 201626,
+              "data": 0.835659
+            },
+            {
+              "week": 201627,
+              "data": 0.786332
+            },
+            {
+              "week": 201628,
+              "data": 0.738541
+            },
+            {
+              "week": 201629,
+              "data": 0.700526
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": [
+                {
+                  "onsetWeek": {
+                    "point": 51,
+                    "low": 51,
+                    "high": 15
+                  },
+                  "peakWeek": {
+                    "point": 13,
+                    "low": 12,
+                    "high": 20
+                  },
+                  "peakPercent": {
+                    "point": 5,
+                    "low": 3.5,
+                    "high": 6.5
+                  },
+                  "oneWk": {
+                    "point": 2.3,
+                    "low": 1.5,
+                    "high": 3
+                  },
+                  "twoWk": {
+                    "point": 2.8,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 3,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 2.3,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "week": 201549
+                },
+                {
+                  "onsetWeek": {
+                    "point": 51,
+                    "low": 51,
+                    "high": 52
+                  },
+                  "peakWeek": {
+                    "point": 5,
+                    "low": 3,
+                    "high": 10
+                  },
+                  "peakPercent": {
+                    "point": 4.8,
+                    "low": 3.5,
+                    "high": 6.5
+                  },
+                  "oneWk": {
+                    "point": 2.8,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 3,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 2.5,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 2.7,
+                    "low": 1.5,
+                    "high": 4.5
+                  },
+                  "week": 201550
+                },
+                {
+                  "onsetWeek": {
+                    "point": 51,
+                    "low": 51,
+                    "high": 52
+                  },
+                  "peakWeek": {
+                    "point": 6,
+                    "low": 2,
+                    "high": 11
+                  },
+                  "peakPercent": {
+                    "point": 4.5,
+                    "low": 3,
+                    "high": 6
+                  },
+                  "oneWk": {
+                    "point": 3.2,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 2.7,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 2.3,
+                    "low": 1.5,
+                    "high": 5
+                  },
+                  "fourWk": {
+                    "point": 3.1,
+                    "low": 2,
+                    "high": 4.5
+                  },
+                  "week": 201551
+                },
+                {
+                  "onsetWeek": {
+                    "point": 51,
+                    "low": 51,
+                    "high": 52
+                  },
+                  "peakWeek": {
+                    "point": 2,
+                    "low": 2,
+                    "high": 9
+                  },
+                  "peakPercent": {
+                    "point": 4.6,
+                    "low": 4,
+                    "high": 6.5
+                  },
+                  "oneWk": {
+                    "point": 3.1,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 4.5,
+                    "low": 2,
+                    "high": 5
+                  },
+                  "threeWk": {
+                    "point": 4.2,
+                    "low": 2,
+                    "high": 5.5
+                  },
+                  "fourWk": {
+                    "point": 3.2,
+                    "low": 2,
+                    "high": 6.5
+                  },
+                  "week": 201552
+                },
+                {
+                  "onsetWeek": {
+                    "point": 2,
+                    "low": 2,
+                    "high": 6
+                  },
+                  "peakWeek": {
+                    "point": 8.5,
+                    "low": 4,
+                    "high": 12
+                  },
+                  "peakPercent": {
+                    "point": 4.4,
+                    "low": 3,
+                    "high": 5.5
+                  },
+                  "oneWk": {
+                    "point": 2.5,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 2.3,
+                    "low": 1.5,
+                    "high": 3
+                  },
+                  "threeWk": {
+                    "point": 2.4,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 3,
+                    "low": 2,
+                    "high": 4.5
+                  },
+                  "week": 201601
+                },
+                {
+                  "onsetWeek": {
+                    "point": 2,
+                    "low": 2,
+                    "high": 7
+                  },
+                  "peakWeek": {
+                    "point": 9,
+                    "low": 3,
+                    "high": 13
+                  },
+                  "peakPercent": {
+                    "point": 3.6,
+                    "low": 3,
+                    "high": 5.5
+                  },
+                  "oneWk": {
+                    "point": 2.2,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 2.6,
+                    "low": 2,
+                    "high": 3
+                  },
+                  "threeWk": {
+                    "point": 2.6,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 3,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "week": 201602
+                },
+                {
+                  "onsetWeek": {
+                    "point": 5,
+                    "low": 3,
+                    "high": 9
+                  },
+                  "peakWeek": {
+                    "point": 8,
+                    "low": 6,
+                    "high": 14
+                  },
+                  "peakPercent": {
+                    "point": 3.5,
+                    "low": 3,
+                    "high": 6
+                  },
+                  "oneWk": {
+                    "point": 2,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 2.5,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 2.6,
+                    "low": 1.5,
+                    "high": 4
+                  },
+                  "fourWk": {
+                    "point": 2.3,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "week": 201603
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 9
+                  },
+                  "peakWeek": {
+                    "point": 7,
+                    "low": 6,
+                    "high": 14
+                  },
+                  "peakPercent": {
+                    "point": 3.5,
+                    "low": 3,
+                    "high": 5.5
+                  },
+                  "oneWk": {
+                    "point": 2.2,
+                    "low": 1.5,
+                    "high": 3
+                  },
+                  "twoWk": {
+                    "point": 2.7,
+                    "low": 1.5,
+                    "high": 4
+                  },
+                  "threeWk": {
+                    "point": 2.8,
+                    "low": 1.5,
+                    "high": 4
+                  },
+                  "fourWk": {
+                    "point": 2.3,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "week": 201604
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 2,
+                    "high": 3
+                  },
+                  "peakWeek": {
+                    "point": 7,
+                    "low": 7,
+                    "high": 13
+                  },
+                  "peakPercent": {
+                    "point": 3.6,
+                    "low": 3,
+                    "high": 5
+                  },
+                  "oneWk": {
+                    "point": 2.9,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 3.5,
+                    "low": 2.5,
+                    "high": 4
+                  },
+                  "threeWk": {
+                    "point": 3.2,
+                    "low": 2.5,
+                    "high": 4
+                  },
+                  "fourWk": {
+                    "point": 2.7,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "week": 201605
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 7,
+                    "low": 7,
+                    "high": 14
+                  },
+                  "peakPercent": {
+                    "point": 3.4,
+                    "low": 3,
+                    "high": 4.5
+                  },
+                  "oneWk": {
+                    "point": 3.2,
+                    "low": 2.5,
+                    "high": 4
+                  },
+                  "twoWk": {
+                    "point": 3.2,
+                    "low": 2.5,
+                    "high": 4
+                  },
+                  "threeWk": {
+                    "point": 3.1,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 2.7,
+                    "low": 2,
+                    "high": 4
+                  },
+                  "week": 201606
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 9,
+                    "low": 7,
+                    "high": 13
+                  },
+                  "peakPercent": {
+                    "point": 3.4,
+                    "low": 3,
+                    "high": 4.5
+                  },
+                  "oneWk": {
+                    "point": 3,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 3.1,
+                    "low": 2.5,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 3.1,
+                    "low": 2,
+                    "high": 4
+                  },
+                  "fourWk": {
+                    "point": 3.2,
+                    "low": 1.5,
+                    "high": 4.5
+                  },
+                  "week": 201607
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 12,
+                    "low": 9,
+                    "high": 16
+                  },
+                  "peakPercent": {
+                    "point": 4.6,
+                    "low": 3,
+                    "high": 6
+                  },
+                  "oneWk": {
+                    "point": 3.5,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "twoWk": {
+                    "point": 3.3,
+                    "low": 2.5,
+                    "high": 4
+                  },
+                  "threeWk": {
+                    "point": 2.9,
+                    "low": 2,
+                    "high": 5
+                  },
+                  "fourWk": {
+                    "point": 3.5,
+                    "low": 2,
+                    "high": 6
+                  },
+                  "week": 201608
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 12,
+                    "low": 12,
+                    "high": 15
+                  },
+                  "peakPercent": {
+                    "point": 5.7,
+                    "low": 3.5,
+                    "high": 5.5
+                  },
+                  "oneWk": {
+                    "point": 3.6,
+                    "low": 2.5,
+                    "high": 4.5
+                  },
+                  "twoWk": {
+                    "point": 2.7,
+                    "low": 2,
+                    "high": 5.5
+                  },
+                  "threeWk": {
+                    "point": 5.1,
+                    "low": 2.5,
+                    "high": 6
+                  },
+                  "fourWk": {
+                    "point": 5.4,
+                    "low": 2.5,
+                    "high": 6.5
+                  },
+                  "week": 201609
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 13,
+                    "low": 49,
+                    "high": 14
+                  },
+                  "peakPercent": {
+                    "point": 5.4,
+                    "low": 4.5,
+                    "high": 6.5
+                  },
+                  "oneWk": {
+                    "point": 4.6,
+                    "low": 3,
+                    "high": 5
+                  },
+                  "twoWk": {
+                    "point": 4.8,
+                    "low": 2.5,
+                    "high": 5.5
+                  },
+                  "threeWk": {
+                    "point": 5.4,
+                    "low": 4,
+                    "high": 6
+                  },
+                  "fourWk": {
+                    "point": 4.5,
+                    "low": 4,
+                    "high": 5
+                  },
+                  "week": 201610
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 11
+                  },
+                  "peakPercent": {
+                    "point": 3.7,
+                    "low": 3.5,
+                    "high": 4
+                  },
+                  "oneWk": {
+                    "point": 2.8,
+                    "low": 2,
+                    "high": 3.5
+                  },
+                  "twoWk": {
+                    "point": 2.3,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 2,
+                    "low": 1,
+                    "high": 3
+                  },
+                  "fourWk": {
+                    "point": 1.6,
+                    "low": 0.5,
+                    "high": 3
+                  },
+                  "week": 201611
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 11
+                  },
+                  "peakPercent": {
+                    "point": 3.7,
+                    "low": 3.5,
+                    "high": 4
+                  },
+                  "oneWk": {
+                    "point": 2.8,
+                    "low": 2,
+                    "high": 4
+                  },
+                  "twoWk": {
+                    "point": 2.3,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 2.1,
+                    "low": 1,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 1.7,
+                    "low": 0.5,
+                    "high": 3
+                  },
+                  "week": 201612
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 11
+                  },
+                  "peakPercent": {
+                    "point": 3.7,
+                    "low": 3.5,
+                    "high": 4
+                  },
+                  "oneWk": {
+                    "point": 2.8,
+                    "low": 2,
+                    "high": 4
+                  },
+                  "twoWk": {
+                    "point": 2.3,
+                    "low": 1.5,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 2.1,
+                    "low": 1,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 1.7,
+                    "low": 0.5,
+                    "high": 3
+                  },
+                  "week": 201613
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 11
+                  },
+                  "peakPercent": {
+                    "point": 3.7,
+                    "low": 3.5,
+                    "high": 4
+                  },
+                  "oneWk": {
+                    "point": 2.1,
+                    "low": 1.5,
+                    "high": 3
+                  },
+                  "twoWk": {
+                    "point": 1.7,
+                    "low": 1,
+                    "high": 2.5
+                  },
+                  "threeWk": {
+                    "point": 1.6,
+                    "low": 1,
+                    "high": 2.5
+                  },
+                  "fourWk": {
+                    "point": 1.3,
+                    "low": 0.5,
+                    "high": 2.5
+                  },
+                  "week": 201614
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 17
+                  },
+                  "peakPercent": {
+                    "point": 3.7,
+                    "low": 3.5,
+                    "high": 4.5
+                  },
+                  "oneWk": {
+                    "point": 1.8,
+                    "low": 1,
+                    "high": 3
+                  },
+                  "twoWk": {
+                    "point": 1.7,
+                    "low": 1,
+                    "high": 4.5
+                  },
+                  "threeWk": {
+                    "point": 1.3,
+                    "low": 1,
+                    "high": 3
+                  },
+                  "fourWk": {
+                    "point": 1.5,
+                    "low": 1,
+                    "high": 3.5
+                  },
+                  "week": 201615
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 18
+                  },
+                  "peakPercent": {
+                    "point": 3.6,
+                    "low": 2.5,
+                    "high": 3.5
+                  },
+                  "oneWk": {
+                    "point": 1.8,
+                    "low": 1,
+                    "high": 4.5
+                  },
+                  "twoWk": {
+                    "point": 1.7,
+                    "low": 1,
+                    "high": 3.5
+                  },
+                  "threeWk": {
+                    "point": 1.4,
+                    "low": 1,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 1.5,
+                    "low": 1,
+                    "high": 3
+                  },
+                  "week": 201616
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 11
+                  },
+                  "peakPercent": {
+                    "point": 3.6,
+                    "low": 3.5,
+                    "high": 4
+                  },
+                  "oneWk": {
+                    "point": 1.8,
+                    "low": 1,
+                    "high": 2.5
+                  },
+                  "twoWk": {
+                    "point": 1.5,
+                    "low": 1,
+                    "high": 2.5
+                  },
+                  "threeWk": {
+                    "point": 1.4,
+                    "low": 0.5,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 1.2,
+                    "low": 0.5,
+                    "high": 2.5
+                  },
+                  "week": 201617
+                },
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 11
+                  },
+                  "peakPercent": {
+                    "point": 3.6,
+                    "low": 3.5,
+                    "high": 4
+                  },
+                  "oneWk": {
+                    "point": 1.7,
+                    "low": 1,
+                    "high": 2.5
+                  },
+                  "twoWk": {
+                    "point": 1.5,
+                    "low": 1,
+                    "high": 2
+                  },
+                  "threeWk": {
+                    "point": 1.4,
+                    "low": 0.5,
+                    "high": 3
+                  },
+                  "fourWk": {
+                    "point": 1.3,
+                    "low": 0.5,
+                    "high": 2.5
+                  },
+                  "week": 201618
+                }
+              ]
+            }
+          ],
+          "baseline": 2.1
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.720415
+            },
+            {
+              "week": 201631,
+              "data": 0.667331
+            },
+            {
+              "week": 201632,
+              "data": 0.687033
+            },
+            {
+              "week": 201633,
+              "data": 0.705526
+            },
+            {
+              "week": 201634,
+              "data": 0.825882
+            },
+            {
+              "week": 201635,
+              "data": 0.993827
+            },
+            {
+              "week": 201636,
+              "data": 1.01764
+            },
+            {
+              "week": 201637,
+              "data": 1.08008
+            },
+            {
+              "week": 201638,
+              "data": 1.10637
+            },
+            {
+              "week": 201639,
+              "data": 1.19999
+            },
+            {
+              "week": 201640,
+              "data": 1.20649
+            },
+            {
+              "week": 201641,
+              "data": 1.23613
+            },
+            {
+              "week": 201642,
+              "data": 1.28702
+            },
+            {
+              "week": 201643,
+              "data": 1.30927
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": [
+                {
+                  "onsetWeek": {
+                    "point": 3,
+                    "low": 3,
+                    "high": 4
+                  },
+                  "peakWeek": {
+                    "point": 10,
+                    "low": 10,
+                    "high": 11
+                  },
+                  "peakPercent": {
+                    "point": 3.6,
+                    "low": 3.5,
+                    "high": 4
+                  },
+                  "oneWk": {
+                    "point": 1.8,
+                    "low": 1,
+                    "high": 2.5
+                  },
+                  "twoWk": {
+                    "point": 1.5,
+                    "low": 1,
+                    "high": 2.5
+                  },
+                  "threeWk": {
+                    "point": 1.4,
+                    "low": 0.5,
+                    "high": 3.5
+                  },
+                  "fourWk": {
+                    "point": 1.2,
+                    "low": 0.5,
+                    "high": 2.5
+                  },
+                  "week": 201642
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs1",
+      "subId": "HHS Region 1",
+      "region": "Region 1 [CT, MA, ME, NH, RI, VT]",
+      "states": [
+        "CT",
+        "MA",
+        "ME",
+        "NH",
+        "RI",
+        "VT"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.356937
+            },
+            {
+              "week": 201531,
+              "data": 0.36071
+            },
+            {
+              "week": 201532,
+              "data": 0.384903
+            },
+            {
+              "week": 201533,
+              "data": 0.361836
+            },
+            {
+              "week": 201534,
+              "data": 0.394007
+            },
+            {
+              "week": 201535,
+              "data": 0.364309
+            },
+            {
+              "week": 201536,
+              "data": 0.441444
+            },
+            {
+              "week": 201537,
+              "data": 0.456994
+            },
+            {
+              "week": 201538,
+              "data": 0.395333
+            },
+            {
+              "week": 201539,
+              "data": 0.395111
+            },
+            {
+              "week": 201540,
+              "data": 0.745698
+            },
+            {
+              "week": 201541,
+              "data": 0.613241
+            },
+            {
+              "week": 201542,
+              "data": 0.721747
+            },
+            {
+              "week": 201543,
+              "data": 0.767136
+            },
+            {
+              "week": 201544,
+              "data": 0.923337
+            },
+            {
+              "week": 201545,
+              "data": 0.767975
+            },
+            {
+              "week": 201546,
+              "data": 0.736201
+            },
+            {
+              "week": 201547,
+              "data": 0.954736
+            },
+            {
+              "week": 201548,
+              "data": 0.807851
+            },
+            {
+              "week": 201549,
+              "data": 0.975831
+            },
+            {
+              "week": 201550,
+              "data": 1.03668
+            },
+            {
+              "week": 201551,
+              "data": 1.38302
+            },
+            {
+              "week": 201552,
+              "data": 1.59869
+            },
+            {
+              "week": 201601,
+              "data": 1.32779
+            },
+            {
+              "week": 201602,
+              "data": 1.40757
+            },
+            {
+              "week": 201603,
+              "data": 1.51447
+            },
+            {
+              "week": 201604,
+              "data": 1.70551
+            },
+            {
+              "week": 201605,
+              "data": 1.80717
+            },
+            {
+              "week": 201606,
+              "data": 1.9911
+            },
+            {
+              "week": 201607,
+              "data": 1.98808
+            },
+            {
+              "week": 201608,
+              "data": 1.97011
+            },
+            {
+              "week": 201609,
+              "data": 2.00001
+            },
+            {
+              "week": 201610,
+              "data": 2.54487
+            },
+            {
+              "week": 201611,
+              "data": 2.20908
+            },
+            {
+              "week": 201612,
+              "data": 2.01418
+            },
+            {
+              "week": 201613,
+              "data": 2.03999
+            },
+            {
+              "week": 201614,
+              "data": 1.71331
+            },
+            {
+              "week": 201615,
+              "data": 1.57636
+            },
+            {
+              "week": 201616,
+              "data": 1.62583
+            },
+            {
+              "week": 201617,
+              "data": 1.13344
+            },
+            {
+              "week": 201618,
+              "data": 1.05605
+            },
+            {
+              "week": 201619,
+              "data": 0.89892
+            },
+            {
+              "week": 201620,
+              "data": 0.895756
+            },
+            {
+              "week": 201621,
+              "data": 0.83991
+            },
+            {
+              "week": 201622,
+              "data": 0.738543
+            },
+            {
+              "week": 201623,
+              "data": 0.743073
+            },
+            {
+              "week": 201624,
+              "data": 0.512698
+            },
+            {
+              "week": 201625,
+              "data": 0.398488
+            },
+            {
+              "week": 201626,
+              "data": 0.392526
+            },
+            {
+              "week": 201627,
+              "data": 0.3677
+            },
+            {
+              "week": 201628,
+              "data": 0.379287
+            },
+            {
+              "week": 201629,
+              "data": 0.398084
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 1.3
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.356399
+            },
+            {
+              "week": 201631,
+              "data": 0.382897
+            },
+            {
+              "week": 201632,
+              "data": 0.335611
+            },
+            {
+              "week": 201633,
+              "data": 0.391705
+            },
+            {
+              "week": 201634,
+              "data": 0.410043
+            },
+            {
+              "week": 201635,
+              "data": 0.396501
+            },
+            {
+              "week": 201636,
+              "data": 0.576958
+            },
+            {
+              "week": 201637,
+              "data": 0.58896
+            },
+            {
+              "week": 201638,
+              "data": 0.610729
+            },
+            {
+              "week": 201639,
+              "data": 0.586813
+            },
+            {
+              "week": 201640,
+              "data": 0.624658
+            },
+            {
+              "week": 201641,
+              "data": 0.561969
+            },
+            {
+              "week": 201642,
+              "data": 0.740606
+            },
+            {
+              "week": 201643,
+              "data": 0.663923
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs2",
+      "subId": "HHS Region 2",
+      "region": "Region 2 [NJ, NY]",
+      "states": [
+        "NJ",
+        "NY"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 1.36223
+            },
+            {
+              "week": 201531,
+              "data": 1.57157
+            },
+            {
+              "week": 201532,
+              "data": 1.38907
+            },
+            {
+              "week": 201533,
+              "data": 1.11843
+            },
+            {
+              "week": 201534,
+              "data": 1.12344
+            },
+            {
+              "week": 201535,
+              "data": 1.19549
+            },
+            {
+              "week": 201536,
+              "data": 1.15552
+            },
+            {
+              "week": 201537,
+              "data": 1.37077
+            },
+            {
+              "week": 201538,
+              "data": 1.62828
+            },
+            {
+              "week": 201539,
+              "data": 1.30017
+            },
+            {
+              "week": 201540,
+              "data": 1.08224
+            },
+            {
+              "week": 201541,
+              "data": 0.948605
+            },
+            {
+              "week": 201542,
+              "data": 1.23018
+            },
+            {
+              "week": 201543,
+              "data": 1.10278
+            },
+            {
+              "week": 201544,
+              "data": 1.21684
+            },
+            {
+              "week": 201545,
+              "data": 1.07336
+            },
+            {
+              "week": 201546,
+              "data": 1.3633
+            },
+            {
+              "week": 201547,
+              "data": 1.35069
+            },
+            {
+              "week": 201548,
+              "data": 1.57092
+            },
+            {
+              "week": 201549,
+              "data": 1.86092
+            },
+            {
+              "week": 201550,
+              "data": 1.74541
+            },
+            {
+              "week": 201551,
+              "data": 2.29498
+            },
+            {
+              "week": 201552,
+              "data": 2.30133
+            },
+            {
+              "week": 201601,
+              "data": 1.77591
+            },
+            {
+              "week": 201602,
+              "data": 2.37764
+            },
+            {
+              "week": 201603,
+              "data": 2.18428
+            },
+            {
+              "week": 201604,
+              "data": 2.32815
+            },
+            {
+              "week": 201605,
+              "data": 2.50124
+            },
+            {
+              "week": 201606,
+              "data": 3.22646
+            },
+            {
+              "week": 201607,
+              "data": 2.76832
+            },
+            {
+              "week": 201608,
+              "data": 3.17342
+            },
+            {
+              "week": 201609,
+              "data": 3.69465
+            },
+            {
+              "week": 201610,
+              "data": 4.01335
+            },
+            {
+              "week": 201611,
+              "data": 4.07985
+            },
+            {
+              "week": 201612,
+              "data": 3.34526
+            },
+            {
+              "week": 201613,
+              "data": 2.27089
+            },
+            {
+              "week": 201614,
+              "data": 1.9742
+            },
+            {
+              "week": 201615,
+              "data": 2.22224
+            },
+            {
+              "week": 201616,
+              "data": 2.00991
+            },
+            {
+              "week": 201617,
+              "data": 1.6754
+            },
+            {
+              "week": 201618,
+              "data": 1.4765
+            },
+            {
+              "week": 201619,
+              "data": 1.28867
+            },
+            {
+              "week": 201620,
+              "data": 1.25627
+            },
+            {
+              "week": 201621,
+              "data": 1.21486
+            },
+            {
+              "week": 201622,
+              "data": 0.83189
+            },
+            {
+              "week": 201623,
+              "data": 0.892695
+            },
+            {
+              "week": 201624,
+              "data": 0.829248
+            },
+            {
+              "week": 201625,
+              "data": 0.805577
+            },
+            {
+              "week": 201626,
+              "data": 0.839301
+            },
+            {
+              "week": 201627,
+              "data": 0.682034
+            },
+            {
+              "week": 201628,
+              "data": 0.660509
+            },
+            {
+              "week": 201629,
+              "data": 0.679526
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 2.3
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.746436
+            },
+            {
+              "week": 201631,
+              "data": 0.634354
+            },
+            {
+              "week": 201632,
+              "data": 0.533826
+            },
+            {
+              "week": 201633,
+              "data": 0.568734
+            },
+            {
+              "week": 201634,
+              "data": 0.60012
+            },
+            {
+              "week": 201635,
+              "data": 0.612234
+            },
+            {
+              "week": 201636,
+              "data": 0.715465
+            },
+            {
+              "week": 201637,
+              "data": 0.75805
+            },
+            {
+              "week": 201638,
+              "data": 0.794656
+            },
+            {
+              "week": 201639,
+              "data": 1.04856
+            },
+            {
+              "week": 201640,
+              "data": 1.71348
+            },
+            {
+              "week": 201641,
+              "data": 1.83141
+            },
+            {
+              "week": 201642,
+              "data": 1.81384
+            },
+            {
+              "week": 201643,
+              "data": 2.34155
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs3",
+      "subId": "HHS Region 3",
+      "region": "Region 3 [DE, MD, PA, VA, WV]",
+      "states": [
+        "DE",
+        "MD",
+        "PA",
+        "VA",
+        "WV"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.959529
+            },
+            {
+              "week": 201531,
+              "data": 0.855641
+            },
+            {
+              "week": 201532,
+              "data": 1.00206
+            },
+            {
+              "week": 201533,
+              "data": 0.897559
+            },
+            {
+              "week": 201534,
+              "data": 0.783423
+            },
+            {
+              "week": 201535,
+              "data": 1.04516
+            },
+            {
+              "week": 201536,
+              "data": 1.09366
+            },
+            {
+              "week": 201537,
+              "data": 1.14352
+            },
+            {
+              "week": 201538,
+              "data": 1.1904
+            },
+            {
+              "week": 201539,
+              "data": 1.0768
+            },
+            {
+              "week": 201540,
+              "data": 1.2178
+            },
+            {
+              "week": 201541,
+              "data": 1.26021
+            },
+            {
+              "week": 201542,
+              "data": 1.53341
+            },
+            {
+              "week": 201543,
+              "data": 1.39535
+            },
+            {
+              "week": 201544,
+              "data": 1.53198
+            },
+            {
+              "week": 201545,
+              "data": 1.57587
+            },
+            {
+              "week": 201546,
+              "data": 1.72001
+            },
+            {
+              "week": 201547,
+              "data": 2.17414
+            },
+            {
+              "week": 201548,
+              "data": 1.83996
+            },
+            {
+              "week": 201549,
+              "data": 2.02023
+            },
+            {
+              "week": 201550,
+              "data": 2.27837
+            },
+            {
+              "week": 201551,
+              "data": 2.81511
+            },
+            {
+              "week": 201552,
+              "data": 2.97706
+            },
+            {
+              "week": 201601,
+              "data": 2.38365
+            },
+            {
+              "week": 201602,
+              "data": 2.32746
+            },
+            {
+              "week": 201603,
+              "data": 2.28403
+            },
+            {
+              "week": 201604,
+              "data": 2.23747
+            },
+            {
+              "week": 201605,
+              "data": 1.97779
+            },
+            {
+              "week": 201606,
+              "data": 2.25924
+            },
+            {
+              "week": 201607,
+              "data": 2.5782
+            },
+            {
+              "week": 201608,
+              "data": 2.92751
+            },
+            {
+              "week": 201609,
+              "data": 3.28807
+            },
+            {
+              "week": 201610,
+              "data": 3.98252
+            },
+            {
+              "week": 201611,
+              "data": 3.21284
+            },
+            {
+              "week": 201612,
+              "data": 2.99606
+            },
+            {
+              "week": 201613,
+              "data": 2.50929
+            },
+            {
+              "week": 201614,
+              "data": 2.09474
+            },
+            {
+              "week": 201615,
+              "data": 2.18209
+            },
+            {
+              "week": 201616,
+              "data": 2.29309
+            },
+            {
+              "week": 201617,
+              "data": 2.15393
+            },
+            {
+              "week": 201618,
+              "data": 1.88369
+            },
+            {
+              "week": 201619,
+              "data": 1.7241
+            },
+            {
+              "week": 201620,
+              "data": 1.66207
+            },
+            {
+              "week": 201621,
+              "data": 1.55187
+            },
+            {
+              "week": 201622,
+              "data": 1.80395
+            },
+            {
+              "week": 201623,
+              "data": 1.53829
+            },
+            {
+              "week": 201624,
+              "data": 1.26961
+            },
+            {
+              "week": 201625,
+              "data": 1.30081
+            },
+            {
+              "week": 201626,
+              "data": 1.19457
+            },
+            {
+              "week": 201627,
+              "data": 1.10709
+            },
+            {
+              "week": 201628,
+              "data": 0.987431
+            },
+            {
+              "week": 201629,
+              "data": 0.979458
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 1.8
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.989814
+            },
+            {
+              "week": 201631,
+              "data": 0.989194
+            },
+            {
+              "week": 201632,
+              "data": 0.976862
+            },
+            {
+              "week": 201633,
+              "data": 0.885897
+            },
+            {
+              "week": 201634,
+              "data": 0.944853
+            },
+            {
+              "week": 201635,
+              "data": 1.09496
+            },
+            {
+              "week": 201636,
+              "data": 1.18406
+            },
+            {
+              "week": 201637,
+              "data": 1.0301
+            },
+            {
+              "week": 201638,
+              "data": 1.12009
+            },
+            {
+              "week": 201639,
+              "data": 1.17095
+            },
+            {
+              "week": 201640,
+              "data": 1.04277
+            },
+            {
+              "week": 201641,
+              "data": 1.08861
+            },
+            {
+              "week": 201642,
+              "data": 1.18304
+            },
+            {
+              "week": 201643,
+              "data": 1.36126
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs4",
+      "subId": "HHS Region 4",
+      "region": "Region 4 [AL, FL, GA, KY, MS, NC, SC, TN]",
+      "states": [
+        "AL",
+        "FL",
+        "GA",
+        "KY",
+        "MS",
+        "NC",
+        "SC",
+        "TN"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.45585
+            },
+            {
+              "week": 201531,
+              "data": 0.439202
+            },
+            {
+              "week": 201532,
+              "data": 0.701597
+            },
+            {
+              "week": 201533,
+              "data": 0.716647
+            },
+            {
+              "week": 201534,
+              "data": 0.787886
+            },
+            {
+              "week": 201535,
+              "data": 0.713601
+            },
+            {
+              "week": 201536,
+              "data": 0.69256
+            },
+            {
+              "week": 201537,
+              "data": 0.804466
+            },
+            {
+              "week": 201538,
+              "data": 0.737125
+            },
+            {
+              "week": 201539,
+              "data": 0.855035
+            },
+            {
+              "week": 201540,
+              "data": 1.00961
+            },
+            {
+              "week": 201541,
+              "data": 1.08011
+            },
+            {
+              "week": 201542,
+              "data": 1.03172
+            },
+            {
+              "week": 201543,
+              "data": 1.07437
+            },
+            {
+              "week": 201544,
+              "data": 1.08652
+            },
+            {
+              "week": 201545,
+              "data": 1.15319
+            },
+            {
+              "week": 201546,
+              "data": 1.33035
+            },
+            {
+              "week": 201547,
+              "data": 1.67569
+            },
+            {
+              "week": 201548,
+              "data": 1.37942
+            },
+            {
+              "week": 201549,
+              "data": 1.38017
+            },
+            {
+              "week": 201550,
+              "data": 1.53305
+            },
+            {
+              "week": 201551,
+              "data": 1.9139
+            },
+            {
+              "week": 201552,
+              "data": 1.79477
+            },
+            {
+              "week": 201601,
+              "data": 1.41627
+            },
+            {
+              "week": 201602,
+              "data": 1.51457
+            },
+            {
+              "week": 201603,
+              "data": 1.78711
+            },
+            {
+              "week": 201604,
+              "data": 1.87242
+            },
+            {
+              "week": 201605,
+              "data": 2.08053
+            },
+            {
+              "week": 201606,
+              "data": 2.30382
+            },
+            {
+              "week": 201607,
+              "data": 2.93132
+            },
+            {
+              "week": 201608,
+              "data": 3.35968
+            },
+            {
+              "week": 201609,
+              "data": 3.29661
+            },
+            {
+              "week": 201610,
+              "data": 3.61404
+            },
+            {
+              "week": 201611,
+              "data": 2.88124
+            },
+            {
+              "week": 201612,
+              "data": 2.77691
+            },
+            {
+              "week": 201613,
+              "data": 2.64512
+            },
+            {
+              "week": 201614,
+              "data": 2.13035
+            },
+            {
+              "week": 201615,
+              "data": 2.01988
+            },
+            {
+              "week": 201616,
+              "data": 1.99955
+            },
+            {
+              "week": 201617,
+              "data": 1.77477
+            },
+            {
+              "week": 201618,
+              "data": 1.66674
+            },
+            {
+              "week": 201619,
+              "data": 1.4085
+            },
+            {
+              "week": 201620,
+              "data": 1.21033
+            },
+            {
+              "week": 201621,
+              "data": 1.07072
+            },
+            {
+              "week": 201622,
+              "data": 1.10486
+            },
+            {
+              "week": 201623,
+              "data": 0.987246
+            },
+            {
+              "week": 201624,
+              "data": 1.01191
+            },
+            {
+              "week": 201625,
+              "data": 0.85976
+            },
+            {
+              "week": 201626,
+              "data": 0.727378
+            },
+            {
+              "week": 201627,
+              "data": 0.687592
+            },
+            {
+              "week": 201628,
+              "data": 0.670198
+            },
+            {
+              "week": 201629,
+              "data": 0.659479
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 1.6
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.666903
+            },
+            {
+              "week": 201631,
+              "data": 0.632485
+            },
+            {
+              "week": 201632,
+              "data": 0.859495
+            },
+            {
+              "week": 201633,
+              "data": 0.875634
+            },
+            {
+              "week": 201634,
+              "data": 1.00624
+            },
+            {
+              "week": 201635,
+              "data": 1.05497
+            },
+            {
+              "week": 201636,
+              "data": 0.911502
+            },
+            {
+              "week": 201637,
+              "data": 1.09428
+            },
+            {
+              "week": 201638,
+              "data": 1.16037
+            },
+            {
+              "week": 201639,
+              "data": 1.33384
+            },
+            {
+              "week": 201640,
+              "data": 1.18521
+            },
+            {
+              "week": 201641,
+              "data": 1.27
+            },
+            {
+              "week": 201642,
+              "data": 1.33691
+            },
+            {
+              "week": 201643,
+              "data": 1.37194
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs5",
+      "subId": "HHS Region 5",
+      "region": "Region 5 [IL, IN, MI, MN, OH, WI]",
+      "states": [
+        "IL",
+        "IN",
+        "MI",
+        "MN",
+        "OH",
+        "WI"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.581513
+            },
+            {
+              "week": 201531,
+              "data": 0.585031
+            },
+            {
+              "week": 201532,
+              "data": 0.597183
+            },
+            {
+              "week": 201533,
+              "data": 0.581626
+            },
+            {
+              "week": 201534,
+              "data": 0.653146
+            },
+            {
+              "week": 201535,
+              "data": 0.595369
+            },
+            {
+              "week": 201536,
+              "data": 0.628781
+            },
+            {
+              "week": 201537,
+              "data": 0.698491
+            },
+            {
+              "week": 201538,
+              "data": 0.794852
+            },
+            {
+              "week": 201539,
+              "data": 0.879066
+            },
+            {
+              "week": 201540,
+              "data": 1.0371
+            },
+            {
+              "week": 201541,
+              "data": 1.16549
+            },
+            {
+              "week": 201542,
+              "data": 1.06218
+            },
+            {
+              "week": 201543,
+              "data": 1.0372
+            },
+            {
+              "week": 201544,
+              "data": 1.21334
+            },
+            {
+              "week": 201545,
+              "data": 1.30389
+            },
+            {
+              "week": 201546,
+              "data": 1.24021
+            },
+            {
+              "week": 201547,
+              "data": 1.42927
+            },
+            {
+              "week": 201548,
+              "data": 1.14107
+            },
+            {
+              "week": 201549,
+              "data": 1.3763
+            },
+            {
+              "week": 201550,
+              "data": 1.4454
+            },
+            {
+              "week": 201551,
+              "data": 1.82185
+            },
+            {
+              "week": 201552,
+              "data": 1.73102
+            },
+            {
+              "week": 201601,
+              "data": 1.40568
+            },
+            {
+              "week": 201602,
+              "data": 1.35701
+            },
+            {
+              "week": 201603,
+              "data": 1.40602
+            },
+            {
+              "week": 201604,
+              "data": 1.41173
+            },
+            {
+              "week": 201605,
+              "data": 1.54293
+            },
+            {
+              "week": 201606,
+              "data": 1.7761
+            },
+            {
+              "week": 201607,
+              "data": 2.11811
+            },
+            {
+              "week": 201608,
+              "data": 2.60695
+            },
+            {
+              "week": 201609,
+              "data": 2.87521
+            },
+            {
+              "week": 201610,
+              "data": 3.24155
+            },
+            {
+              "week": 201611,
+              "data": 2.54507
+            },
+            {
+              "week": 201612,
+              "data": 2.27153
+            },
+            {
+              "week": 201613,
+              "data": 1.98195
+            },
+            {
+              "week": 201614,
+              "data": 1.56295
+            },
+            {
+              "week": 201615,
+              "data": 1.43914
+            },
+            {
+              "week": 201616,
+              "data": 1.45661
+            },
+            {
+              "week": 201617,
+              "data": 1.35283
+            },
+            {
+              "week": 201618,
+              "data": 1.01145
+            },
+            {
+              "week": 201619,
+              "data": 1.14431
+            },
+            {
+              "week": 201620,
+              "data": 1.03191
+            },
+            {
+              "week": 201621,
+              "data": 0.80613
+            },
+            {
+              "week": 201622,
+              "data": 0.885953
+            },
+            {
+              "week": 201623,
+              "data": 0.826375
+            },
+            {
+              "week": 201624,
+              "data": 0.696843
+            },
+            {
+              "week": 201625,
+              "data": 0.538983
+            },
+            {
+              "week": 201626,
+              "data": 0.543307
+            },
+            {
+              "week": 201627,
+              "data": 0.518709
+            },
+            {
+              "week": 201628,
+              "data": 0.52985
+            },
+            {
+              "week": 201629,
+              "data": 0.493244
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 1.9
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.526565
+            },
+            {
+              "week": 201631,
+              "data": 0.547168
+            },
+            {
+              "week": 201632,
+              "data": 0.43976
+            },
+            {
+              "week": 201633,
+              "data": 0.47315
+            },
+            {
+              "week": 201634,
+              "data": 0.603882
+            },
+            {
+              "week": 201635,
+              "data": 0.57252
+            },
+            {
+              "week": 201636,
+              "data": 0.637035
+            },
+            {
+              "week": 201637,
+              "data": 0.745533
+            },
+            {
+              "week": 201638,
+              "data": 0.806563
+            },
+            {
+              "week": 201639,
+              "data": 0.948649
+            },
+            {
+              "week": 201640,
+              "data": 1.03609
+            },
+            {
+              "week": 201641,
+              "data": 1.08124
+            },
+            {
+              "week": 201642,
+              "data": 1.18338
+            },
+            {
+              "week": 201643,
+              "data": 0.994676
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs6",
+      "subId": "HHS Region 6",
+      "region": "Region 6 [AR, LA, NM, OK, TX]",
+      "states": [
+        "AR",
+        "LA",
+        "NM",
+        "OK",
+        "TX"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 1.36455
+            },
+            {
+              "week": 201531,
+              "data": 1.28844
+            },
+            {
+              "week": 201532,
+              "data": 1.26955
+            },
+            {
+              "week": 201533,
+              "data": 1.59884
+            },
+            {
+              "week": 201534,
+              "data": 1.34635
+            },
+            {
+              "week": 201535,
+              "data": 1.72044
+            },
+            {
+              "week": 201536,
+              "data": 2.24392
+            },
+            {
+              "week": 201537,
+              "data": 2.18705
+            },
+            {
+              "week": 201538,
+              "data": 2.36584
+            },
+            {
+              "week": 201539,
+              "data": 2.53952
+            },
+            {
+              "week": 201540,
+              "data": 2.68411
+            },
+            {
+              "week": 201541,
+              "data": 2.80592
+            },
+            {
+              "week": 201542,
+              "data": 2.98999
+            },
+            {
+              "week": 201543,
+              "data": 3.09627
+            },
+            {
+              "week": 201544,
+              "data": 2.86913
+            },
+            {
+              "week": 201545,
+              "data": 3.27313
+            },
+            {
+              "week": 201546,
+              "data": 3.23832
+            },
+            {
+              "week": 201547,
+              "data": 4.02443
+            },
+            {
+              "week": 201548,
+              "data": 3.638
+            },
+            {
+              "week": 201549,
+              "data": 3.6785
+            },
+            {
+              "week": 201550,
+              "data": 3.75233
+            },
+            {
+              "week": 201551,
+              "data": 4.27091
+            },
+            {
+              "week": 201552,
+              "data": 4.63939
+            },
+            {
+              "week": 201601,
+              "data": 3.77153
+            },
+            {
+              "week": 201602,
+              "data": 3.53418
+            },
+            {
+              "week": 201603,
+              "data": 3.78371
+            },
+            {
+              "week": 201604,
+              "data": 4.19069
+            },
+            {
+              "week": 201605,
+              "data": 4.15589
+            },
+            {
+              "week": 201606,
+              "data": 4.8437
+            },
+            {
+              "week": 201607,
+              "data": 5.31515
+            },
+            {
+              "week": 201608,
+              "data": 4.16406
+            },
+            {
+              "week": 201609,
+              "data": 4.48291
+            },
+            {
+              "week": 201610,
+              "data": 4.14826
+            },
+            {
+              "week": 201611,
+              "data": 3.66362
+            },
+            {
+              "week": 201612,
+              "data": 3.43738
+            },
+            {
+              "week": 201613,
+              "data": 3.05546
+            },
+            {
+              "week": 201614,
+              "data": 2.63172
+            },
+            {
+              "week": 201615,
+              "data": 3.03153
+            },
+            {
+              "week": 201616,
+              "data": 3.12237
+            },
+            {
+              "week": 201617,
+              "data": 2.63344
+            },
+            {
+              "week": 201618,
+              "data": 2.52747
+            },
+            {
+              "week": 201619,
+              "data": 2.08684
+            },
+            {
+              "week": 201620,
+              "data": 2.09639
+            },
+            {
+              "week": 201621,
+              "data": 2.17518
+            },
+            {
+              "week": 201622,
+              "data": 1.96065
+            },
+            {
+              "week": 201623,
+              "data": 1.59479
+            },
+            {
+              "week": 201624,
+              "data": 1.64698
+            },
+            {
+              "week": 201625,
+              "data": 1.44474
+            },
+            {
+              "week": 201626,
+              "data": 1.42227
+            },
+            {
+              "week": 201627,
+              "data": 1.36445
+            },
+            {
+              "week": 201628,
+              "data": 1.28243
+            },
+            {
+              "week": 201629,
+              "data": 1.16551
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 3.6
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 1.2563
+            },
+            {
+              "week": 201631,
+              "data": 1.03208
+            },
+            {
+              "week": 201632,
+              "data": 1.0707
+            },
+            {
+              "week": 201633,
+              "data": 1.10645
+            },
+            {
+              "week": 201634,
+              "data": 1.41844
+            },
+            {
+              "week": 201635,
+              "data": 2.21023
+            },
+            {
+              "week": 201636,
+              "data": 2.30176
+            },
+            {
+              "week": 201637,
+              "data": 2.09464
+            },
+            {
+              "week": 201638,
+              "data": 2.00601
+            },
+            {
+              "week": 201639,
+              "data": 2.2111
+            },
+            {
+              "week": 201640,
+              "data": 1.92568
+            },
+            {
+              "week": 201641,
+              "data": 1.79681
+            },
+            {
+              "week": 201642,
+              "data": 1.68603
+            },
+            {
+              "week": 201643,
+              "data": 2.00145
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs7",
+      "subId": "HHS Region 7",
+      "region": "Region 7 [IA, KS, MO, NE]",
+      "states": [
+        "IA",
+        "KS",
+        "MO",
+        "NE"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.213522
+            },
+            {
+              "week": 201531,
+              "data": 0.280848
+            },
+            {
+              "week": 201532,
+              "data": 0.116262
+            },
+            {
+              "week": 201533,
+              "data": 0.283492
+            },
+            {
+              "week": 201534,
+              "data": 0.212095
+            },
+            {
+              "week": 201535,
+              "data": 0.180017
+            },
+            {
+              "week": 201536,
+              "data": 0.315453
+            },
+            {
+              "week": 201537,
+              "data": 0.526178
+            },
+            {
+              "week": 201538,
+              "data": 0.684635
+            },
+            {
+              "week": 201539,
+              "data": 1.02699
+            },
+            {
+              "week": 201540,
+              "data": 0.873934
+            },
+            {
+              "week": 201541,
+              "data": 0.887407
+            },
+            {
+              "week": 201542,
+              "data": 1.12273
+            },
+            {
+              "week": 201543,
+              "data": 0.854524
+            },
+            {
+              "week": 201544,
+              "data": 1.15375
+            },
+            {
+              "week": 201545,
+              "data": 1.20878
+            },
+            {
+              "week": 201546,
+              "data": 1.05016
+            },
+            {
+              "week": 201547,
+              "data": 1.31092
+            },
+            {
+              "week": 201548,
+              "data": 0.95359
+            },
+            {
+              "week": 201549,
+              "data": 0.912263
+            },
+            {
+              "week": 201550,
+              "data": 1.19874
+            },
+            {
+              "week": 201551,
+              "data": 1.39056
+            },
+            {
+              "week": 201552,
+              "data": 1.55082
+            },
+            {
+              "week": 201601,
+              "data": 1.41906
+            },
+            {
+              "week": 201602,
+              "data": 1.1452
+            },
+            {
+              "week": 201603,
+              "data": 1.15409
+            },
+            {
+              "week": 201604,
+              "data": 1.175
+            },
+            {
+              "week": 201605,
+              "data": 1.12489
+            },
+            {
+              "week": 201606,
+              "data": 1.50883
+            },
+            {
+              "week": 201607,
+              "data": 1.81036
+            },
+            {
+              "week": 201608,
+              "data": 1.8449
+            },
+            {
+              "week": 201609,
+              "data": 2.40642
+            },
+            {
+              "week": 201610,
+              "data": 2.50362
+            },
+            {
+              "week": 201611,
+              "data": 1.99971
+            },
+            {
+              "week": 201612,
+              "data": 2.05839
+            },
+            {
+              "week": 201613,
+              "data": 2.09375
+            },
+            {
+              "week": 201614,
+              "data": 1.54483
+            },
+            {
+              "week": 201615,
+              "data": 1.39301
+            },
+            {
+              "week": 201616,
+              "data": 1.20827
+            },
+            {
+              "week": 201617,
+              "data": 0.986163
+            },
+            {
+              "week": 201618,
+              "data": 0.908619
+            },
+            {
+              "week": 201619,
+              "data": 0.704888
+            },
+            {
+              "week": 201620,
+              "data": 0.59335
+            },
+            {
+              "week": 201621,
+              "data": 0.32297
+            },
+            {
+              "week": 201622,
+              "data": 0.395716
+            },
+            {
+              "week": 201623,
+              "data": 0.527908
+            },
+            {
+              "week": 201624,
+              "data": 0.310478
+            },
+            {
+              "week": 201625,
+              "data": 0.308136
+            },
+            {
+              "week": 201626,
+              "data": 0.294783
+            },
+            {
+              "week": 201627,
+              "data": 0.375071
+            },
+            {
+              "week": 201628,
+              "data": 0.268455
+            },
+            {
+              "week": 201629,
+              "data": 0.163723
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 1.7
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.32947
+            },
+            {
+              "week": 201631,
+              "data": 0.223204
+            },
+            {
+              "week": 201632,
+              "data": 0.281401
+            },
+            {
+              "week": 201633,
+              "data": 0.143466
+            },
+            {
+              "week": 201634,
+              "data": 0.290879
+            },
+            {
+              "week": 201635,
+              "data": 0.307556
+            },
+            {
+              "week": 201636,
+              "data": 0.44103
+            },
+            {
+              "week": 201637,
+              "data": 0.281286
+            },
+            {
+              "week": 201638,
+              "data": 0.371017
+            },
+            {
+              "week": 201639,
+              "data": 0.281655
+            },
+            {
+              "week": 201640,
+              "data": 0.60616
+            },
+            {
+              "week": 201641,
+              "data": 0.722122
+            },
+            {
+              "week": 201642,
+              "data": 0.827834
+            },
+            {
+              "week": 201643,
+              "data": 0.731028
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs8",
+      "subId": "HHS Region 8",
+      "region": "Region 8 [CO, MT, ND, SD, UT, WY]",
+      "states": [
+        "CO",
+        "MT",
+        "ND",
+        "SD",
+        "UT",
+        "WY"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.469566
+            },
+            {
+              "week": 201531,
+              "data": 0.486867
+            },
+            {
+              "week": 201532,
+              "data": 0.40949
+            },
+            {
+              "week": 201533,
+              "data": 0.388013
+            },
+            {
+              "week": 201534,
+              "data": 0.563506
+            },
+            {
+              "week": 201535,
+              "data": 0.480913
+            },
+            {
+              "week": 201536,
+              "data": 0.457087
+            },
+            {
+              "week": 201537,
+              "data": 0.468133
+            },
+            {
+              "week": 201538,
+              "data": 0.622192
+            },
+            {
+              "week": 201539,
+              "data": 0.497322
+            },
+            {
+              "week": 201540,
+              "data": 0.655949
+            },
+            {
+              "week": 201541,
+              "data": 0.672674
+            },
+            {
+              "week": 201542,
+              "data": 0.688796
+            },
+            {
+              "week": 201543,
+              "data": 0.612608
+            },
+            {
+              "week": 201544,
+              "data": 0.721433
+            },
+            {
+              "week": 201545,
+              "data": 0.744407
+            },
+            {
+              "week": 201546,
+              "data": 0.776688
+            },
+            {
+              "week": 201547,
+              "data": 0.997922
+            },
+            {
+              "week": 201548,
+              "data": 0.725679
+            },
+            {
+              "week": 201549,
+              "data": 0.891982
+            },
+            {
+              "week": 201550,
+              "data": 0.895779
+            },
+            {
+              "week": 201551,
+              "data": 1.15229
+            },
+            {
+              "week": 201552,
+              "data": 1.49666
+            },
+            {
+              "week": 201601,
+              "data": 1.11457
+            },
+            {
+              "week": 201602,
+              "data": 1.1948
+            },
+            {
+              "week": 201603,
+              "data": 1.223
+            },
+            {
+              "week": 201604,
+              "data": 1.27726
+            },
+            {
+              "week": 201605,
+              "data": 1.56575
+            },
+            {
+              "week": 201606,
+              "data": 1.82146
+            },
+            {
+              "week": 201607,
+              "data": 2.14436
+            },
+            {
+              "week": 201608,
+              "data": 2.17828
+            },
+            {
+              "week": 201609,
+              "data": 2.03079
+            },
+            {
+              "week": 201610,
+              "data": 2.14672
+            },
+            {
+              "week": 201611,
+              "data": 2.16058
+            },
+            {
+              "week": 201612,
+              "data": 1.85893
+            },
+            {
+              "week": 201613,
+              "data": 1.75981
+            },
+            {
+              "week": 201614,
+              "data": 1.64976
+            },
+            {
+              "week": 201615,
+              "data": 1.29679
+            },
+            {
+              "week": 201616,
+              "data": 1.14872
+            },
+            {
+              "week": 201617,
+              "data": 0.983857
+            },
+            {
+              "week": 201618,
+              "data": 0.967427
+            },
+            {
+              "week": 201619,
+              "data": 0.818413
+            },
+            {
+              "week": 201620,
+              "data": 0.73938
+            },
+            {
+              "week": 201621,
+              "data": 0.73781
+            },
+            {
+              "week": 201622,
+              "data": 0.724162
+            },
+            {
+              "week": 201623,
+              "data": 0.568101
+            },
+            {
+              "week": 201624,
+              "data": 0.540166
+            },
+            {
+              "week": 201625,
+              "data": 0.464534
+            },
+            {
+              "week": 201626,
+              "data": 0.477685
+            },
+            {
+              "week": 201627,
+              "data": 0.419202
+            },
+            {
+              "week": 201628,
+              "data": 0.417195
+            },
+            {
+              "week": 201629,
+              "data": 0.43248
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 1.4
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.35978
+            },
+            {
+              "week": 201631,
+              "data": 0.331639
+            },
+            {
+              "week": 201632,
+              "data": 0.389203
+            },
+            {
+              "week": 201633,
+              "data": 0.379123
+            },
+            {
+              "week": 201634,
+              "data": 0.564038
+            },
+            {
+              "week": 201635,
+              "data": 0.832022
+            },
+            {
+              "week": 201636,
+              "data": 0.639502
+            },
+            {
+              "week": 201637,
+              "data": 0.843608
+            },
+            {
+              "week": 201638,
+              "data": 0.785281
+            },
+            {
+              "week": 201639,
+              "data": 0.536975
+            },
+            {
+              "week": 201640,
+              "data": 0.771956
+            },
+            {
+              "week": 201641,
+              "data": 0.90471
+            },
+            {
+              "week": 201642,
+              "data": 0.930348
+            },
+            {
+              "week": 201643,
+              "data": 0.813203
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs9",
+      "subId": "HHS Region 9",
+      "region": "Region 9 [AZ, CA, HI, NV]",
+      "states": [
+        "AZ",
+        "CA",
+        "HI",
+        "NV"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.960867
+            },
+            {
+              "week": 201531,
+              "data": 0.955579
+            },
+            {
+              "week": 201532,
+              "data": 1.06585
+            },
+            {
+              "week": 201533,
+              "data": 1.08567
+            },
+            {
+              "week": 201534,
+              "data": 1.21026
+            },
+            {
+              "week": 201535,
+              "data": 1.17144
+            },
+            {
+              "week": 201536,
+              "data": 0.923043
+            },
+            {
+              "week": 201537,
+              "data": 1.30393
+            },
+            {
+              "week": 201538,
+              "data": 1.30785
+            },
+            {
+              "week": 201539,
+              "data": 1.1779
+            },
+            {
+              "week": 201540,
+              "data": 1.32627
+            },
+            {
+              "week": 201541,
+              "data": 1.4953
+            },
+            {
+              "week": 201542,
+              "data": 1.43902
+            },
+            {
+              "week": 201543,
+              "data": 1.58879
+            },
+            {
+              "week": 201544,
+              "data": 1.78049
+            },
+            {
+              "week": 201545,
+              "data": 1.73921
+            },
+            {
+              "week": 201546,
+              "data": 1.98744
+            },
+            {
+              "week": 201547,
+              "data": 2.2437
+            },
+            {
+              "week": 201548,
+              "data": 2.00403
+            },
+            {
+              "week": 201549,
+              "data": 2.0343
+            },
+            {
+              "week": 201550,
+              "data": 2.13484
+            },
+            {
+              "week": 201551,
+              "data": 2.80184
+            },
+            {
+              "week": 201552,
+              "data": 3.03653
+            },
+            {
+              "week": 201601,
+              "data": 2.42695
+            },
+            {
+              "week": 201602,
+              "data": 2.40393
+            },
+            {
+              "week": 201603,
+              "data": 2.64512
+            },
+            {
+              "week": 201604,
+              "data": 2.82762
+            },
+            {
+              "week": 201605,
+              "data": 3.24343
+            },
+            {
+              "week": 201606,
+              "data": 3.96877
+            },
+            {
+              "week": 201607,
+              "data": 4.3744
+            },
+            {
+              "week": 201608,
+              "data": 3.93795
+            },
+            {
+              "week": 201609,
+              "data": 3.84237
+            },
+            {
+              "week": 201610,
+              "data": 3.80214
+            },
+            {
+              "week": 201611,
+              "data": 3.33737
+            },
+            {
+              "week": 201612,
+              "data": 3.00567
+            },
+            {
+              "week": 201613,
+              "data": 2.78509
+            },
+            {
+              "week": 201614,
+              "data": 2.2393
+            },
+            {
+              "week": 201615,
+              "data": 2.0331
+            },
+            {
+              "week": 201616,
+              "data": 1.76124
+            },
+            {
+              "week": 201617,
+              "data": 1.74637
+            },
+            {
+              "week": 201618,
+              "data": 1.79923
+            },
+            {
+              "week": 201619,
+              "data": 1.52741
+            },
+            {
+              "week": 201620,
+              "data": 1.49464
+            },
+            {
+              "week": 201621,
+              "data": 1.38824
+            },
+            {
+              "week": 201622,
+              "data": 1.32165
+            },
+            {
+              "week": 201623,
+              "data": 1.30581
+            },
+            {
+              "week": 201624,
+              "data": 1.21624
+            },
+            {
+              "week": 201625,
+              "data": 1.07191
+            },
+            {
+              "week": 201626,
+              "data": 1.14158
+            },
+            {
+              "week": 201627,
+              "data": 1.09858
+            },
+            {
+              "week": 201628,
+              "data": 0.960341
+            },
+            {
+              "week": 201629,
+              "data": 0.887095
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 2.6
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.798763
+            },
+            {
+              "week": 201631,
+              "data": 0.793163
+            },
+            {
+              "week": 201632,
+              "data": 0.780127
+            },
+            {
+              "week": 201633,
+              "data": 0.890953
+            },
+            {
+              "week": 201634,
+              "data": 0.963998
+            },
+            {
+              "week": 201635,
+              "data": 1.21886
+            },
+            {
+              "week": 201636,
+              "data": 1.21836
+            },
+            {
+              "week": 201637,
+              "data": 1.50991
+            },
+            {
+              "week": 201638,
+              "data": 1.52847
+            },
+            {
+              "week": 201639,
+              "data": 1.45276
+            },
+            {
+              "week": 201640,
+              "data": 1.24132
+            },
+            {
+              "week": 201641,
+              "data": 1.21921
+            },
+            {
+              "week": 201642,
+              "data": 1.31687
+            },
+            {
+              "week": 201643,
+              "data": 0.975945
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hhs10",
+      "subId": "HHS Region 10",
+      "region": "Region 10 [AK, ID, OR, WA]",
+      "states": [
+        "AK",
+        "ID",
+        "OR",
+        "WA"
+      ],
+      "seasons": [
+        {
+          "id": "2015-2016",
+          "actual": [
+            {
+              "week": 201530,
+              "data": 0.273285
+            },
+            {
+              "week": 201531,
+              "data": 0.277682
+            },
+            {
+              "week": 201532,
+              "data": 0.176249
+            },
+            {
+              "week": 201533,
+              "data": 0.233461
+            },
+            {
+              "week": 201534,
+              "data": 0.129447
+            },
+            {
+              "week": 201535,
+              "data": 0.409017
+            },
+            {
+              "week": 201536,
+              "data": 0.545922
+            },
+            {
+              "week": 201537,
+              "data": 0.500789
+            },
+            {
+              "week": 201538,
+              "data": 0.507331
+            },
+            {
+              "week": 201539,
+              "data": 0.629231
+            },
+            {
+              "week": 201540,
+              "data": 0.497072
+            },
+            {
+              "week": 201541,
+              "data": 0.756054
+            },
+            {
+              "week": 201542,
+              "data": 0.550018
+            },
+            {
+              "week": 201543,
+              "data": 0.853014
+            },
+            {
+              "week": 201544,
+              "data": 0.526763
+            },
+            {
+              "week": 201545,
+              "data": 0.891904
+            },
+            {
+              "week": 201546,
+              "data": 0.694108
+            },
+            {
+              "week": 201547,
+              "data": 0.82039
+            },
+            {
+              "week": 201548,
+              "data": 0.812498
+            },
+            {
+              "week": 201549,
+              "data": 0.594886
+            },
+            {
+              "week": 201550,
+              "data": 0.658719
+            },
+            {
+              "week": 201551,
+              "data": 0.66188
+            },
+            {
+              "week": 201552,
+              "data": 0.791975
+            },
+            {
+              "week": 201601,
+              "data": 0.888661
+            },
+            {
+              "week": 201602,
+              "data": 1.07718
+            },
+            {
+              "week": 201603,
+              "data": 1.3789
+            },
+            {
+              "week": 201604,
+              "data": 1.41403
+            },
+            {
+              "week": 201605,
+              "data": 1.65259
+            },
+            {
+              "week": 201606,
+              "data": 1.73793
+            },
+            {
+              "week": 201607,
+              "data": 2.44289
+            },
+            {
+              "week": 201608,
+              "data": 2.13499
+            },
+            {
+              "week": 201609,
+              "data": 1.98941
+            },
+            {
+              "week": 201610,
+              "data": 2.21239
+            },
+            {
+              "week": 201611,
+              "data": 2.17566
+            },
+            {
+              "week": 201612,
+              "data": 1.707
+            },
+            {
+              "week": 201613,
+              "data": 1.77751
+            },
+            {
+              "week": 201614,
+              "data": 1.71131
+            },
+            {
+              "week": 201615,
+              "data": 0.994849
+            },
+            {
+              "week": 201616,
+              "data": 0.797965
+            },
+            {
+              "week": 201617,
+              "data": 0.74733
+            },
+            {
+              "week": 201618,
+              "data": 0.940669
+            },
+            {
+              "week": 201619,
+              "data": 0.529396
+            },
+            {
+              "week": 201620,
+              "data": 0.530742
+            },
+            {
+              "week": 201621,
+              "data": 0.201718
+            },
+            {
+              "week": 201622,
+              "data": 0.187745
+            },
+            {
+              "week": 201623,
+              "data": 0.274262
+            },
+            {
+              "week": 201624,
+              "data": 0.334307
+            },
+            {
+              "week": 201625,
+              "data": 0.218156
+            },
+            {
+              "week": 201626,
+              "data": 0.10407
+            },
+            {
+              "week": 201627,
+              "data": 0.177107
+            },
+            {
+              "week": 201628,
+              "data": 0.235844
+            },
+            {
+              "week": 201629,
+              "data": 0.151754
+            }
+          ],
+          "models": [
+            {
+              "id": "KOT",
+              "meta": {
+                "name": "Kernel of Truth",
+                "description": "Reich Lab, UMass Amherst",
+                "url": "https://reichlab.github.io/"
+              },
+              "predictions": []
+            }
+          ],
+          "baseline": 1.1
+        },
+        {
+          "id": "2016-2017",
+          "actual": [
+            {
+              "week": 201630,
+              "data": 0.239537
+            },
+            {
+              "week": 201631,
+              "data": 0.159146
+            },
+            {
+              "week": 201632,
+              "data": 0.195011
+            },
+            {
+              "week": 201633,
+              "data": 0.117011
+            },
+            {
+              "week": 201634,
+              "data": 0.183599
+            },
+            {
+              "week": 201635,
+              "data": 0.269324
+            },
+            {
+              "week": 201636,
+              "data": 0.322706
+            },
+            {
+              "week": 201637,
+              "data": 0.317609
+            },
+            {
+              "week": 201638,
+              "data": 0.231198
+            },
+            {
+              "week": 201639,
+              "data": 0.271021
+            },
+            {
+              "week": 201640,
+              "data": 0.444634
+            },
+            {
+              "week": 201641,
+              "data": 0.500267
+            },
+            {
+              "week": 201642,
+              "data": 0.48577
+            },
+            {
+              "week": 201643,
+              "data": 0.511633
+            },
+            {
+              "week": 201644,
+              "data": -1
+            },
+            {
+              "week": 201645,
+              "data": -1
+            },
+            {
+              "week": 201646,
+              "data": -1
+            },
+            {
+              "week": 201647,
+              "data": -1
+            },
+            {
+              "week": 201648,
+              "data": -1
+            },
+            {
+              "week": 201649,
+              "data": -1
+            },
+            {
+              "week": 201650,
+              "data": -1
+            },
+            {
+              "week": 201651,
+              "data": -1
+            },
+            {
+              "week": 201652,
+              "data": -1
+            },
+            {
+              "week": 201653,
+              "data": -1
+            },
+            {
+              "week": 201701,
+              "data": -1
+            },
+            {
+              "week": 201702,
+              "data": -1
+            },
+            {
+              "week": 201703,
+              "data": -1
+            },
+            {
+              "week": 201704,
+              "data": -1
+            },
+            {
+              "week": 201705,
+              "data": -1
+            },
+            {
+              "week": 201706,
+              "data": -1
+            },
+            {
+              "week": 201707,
+              "data": -1
+            },
+            {
+              "week": 201708,
+              "data": -1
+            },
+            {
+              "week": 201709,
+              "data": -1
+            },
+            {
+              "week": 201710,
+              "data": -1
+            },
+            {
+              "week": 201711,
+              "data": -1
+            },
+            {
+              "week": 201712,
+              "data": -1
+            },
+            {
+              "week": 201713,
+              "data": -1
+            },
+            {
+              "week": 201714,
+              "data": -1
+            },
+            {
+              "week": 201715,
+              "data": -1
+            },
+            {
+              "week": 201716,
+              "data": -1
+            },
+            {
+              "week": 201717,
+              "data": -1
+            },
+            {
+              "week": 201718,
+              "data": -1
+            },
+            {
+              "week": 201719,
+              "data": -1
+            },
+            {
+              "week": 201720,
+              "data": -1
+            },
+            {
+              "week": 201721,
+              "data": -1
+            },
+            {
+              "week": 201722,
+              "data": -1
+            },
+            {
+              "week": 201723,
+              "data": -1
+            },
+            {
+              "week": 201724,
+              "data": -1
+            },
+            {
+              "week": 201725,
+              "data": -1
+            },
+            {
+              "week": 201726,
+              "data": -1
+            },
+            {
+              "week": 201727,
+              "data": -1
+            },
+            {
+              "week": 201728,
+              "data": -1
+            },
+            {
+              "week": 201729,
+              "data": -1
+            }
+          ],
+          "models": [
+            {
+              "id": "Foo",
+              "meta": {
+                "name": "Foo",
+                "description": "Team Bar",
+                "url": "https://foo.io/"
+              },
+              "predictions": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "title": "flusight",
+    "parent": "reichlab",
+    "sourceUrl": "https://github.com/reichlab/flusight",
+    "parentUrl": "https://reichlab.github.io",
+    "licenseUrl": "https://opensource.org/licenses/GPL-3.0",
+    "updateTime": "November 6th 2016, 09:35:27"
+  }
+}
